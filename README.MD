@@ -31,13 +31,10 @@
  - npm nodemailer
  - npm cors
 
-#### NodeJS and ExpressJS
+#### NodeJS, ExpressJS and MongoDB:
 
 userController: This page has all the logic of the applications. The addUser function is only for the backend to add a user to the database
 
-userRouter: This page has all the route endpoints
-
-model: user schema
 
 
 
